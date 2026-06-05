@@ -1,6 +1,7 @@
 # Báo Cáo Lab 7: Embedding & Vector Store (Đề tài Nhóm: Luật Việt Nam)
 
 **Họ tên:** Ngô Minh Khánh - 2A202600953
+
 **Nhóm:** Nhóm A5  
 **Thành viên nhóm:**
 - Ngô Minh Khánh — 2A202600953
@@ -8,6 +9,7 @@
 - Đinh Hoàng Nam — 2A202600884
 - Bùi Hoàng Sơn — 2A202600925
 - Bùi Như Kiệt — 2A202600895
+  
 **Ngày:** 2026-06-05
 
 ---
